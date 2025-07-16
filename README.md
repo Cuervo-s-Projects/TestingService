@@ -29,6 +29,7 @@ Cada conjunto de pruebas genera automáticamente una carpeta que contiene los re
 - Visualización de videos desde el navegador
 - Verificación del listado de videos accesibles por el usuario
 - Comprobación de restricciones de tamaño y acceso
+- Descarga de videos en resolucion optima
 
 ---
 
