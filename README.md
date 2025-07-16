@@ -87,8 +87,8 @@ El servicio de **Guardado en Perfil** permite que las respuestas de los cuestion
 - Verificar que todas las pruebas de login se ejecuten correctamente y revisar los reportes generados en PDF.
 
 ### 2. Ejecutar pruebas de Videos
-- Para ejecutar los tests de **Subida de Video**, navegar a la carpeta `videos/upload` y ejecutar el script de pruebas (ej. `upload.test.js`).
-- Para ejecutar los tests de **Descarga de Video**, navegar a la carpeta `videos/download` y ejecutar el script correspondiente (ej. `download.test.js`).
+- Para ejecutar los tests de **Subida de Video**, navegar a la carpeta `videosupload` y ejecutar los scripts de pruebas.
+- Para ejecutar los tests de **Descarga de Video**, navegar a la carpeta `videosdownload` y ejecutar cada script correspondiente.
 - Cada test genera su reporte en PDF, el cual puede ser consultado después de cada ejecución.
 
 ### 3. Ejecutar pruebas de Cuestionarios
